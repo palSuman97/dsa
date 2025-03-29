@@ -1,4 +1,4 @@
-package dsa.queue;
+package queue;
 
 //class Node {
 //	int data;

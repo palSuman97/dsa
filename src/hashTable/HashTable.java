@@ -1,4 +1,4 @@
-package dsa.hashTable;
+package hashTable;
 
 public class HashTable {
 
